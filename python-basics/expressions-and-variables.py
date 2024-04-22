@@ -4,8 +4,8 @@ You are tasked with developing a Python applications that converts amounts betwe
 
 Requirements
 user_input
-amount_rate_usd
-amount_rate_php
+amount_usd
+exchange_rate_php
 converted_amount
 
 """
